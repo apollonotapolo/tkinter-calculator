@@ -12,7 +12,7 @@ A simple desktop calculator built with Python and Tkinter.
 
 ## Screenshot
 
-![Calculator Screenshot](Screenshot(19).png)
+![Calculator Screenshot](screenshot.png)
 
 ## Technologies Used
 
